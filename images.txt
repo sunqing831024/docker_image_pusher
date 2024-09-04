@@ -1,1 +1,2 @@
 registry:latest
+kolla/ubuntu-source-kolla-toolbox:pike
