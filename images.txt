@@ -1,1 +1,2 @@
 docker-registry
+https://github.com/gangganghao/DockerRegistry
