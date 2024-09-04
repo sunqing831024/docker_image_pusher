@@ -1,1 +1,1 @@
-library/DockerRegistry:latest
+registry:latest
