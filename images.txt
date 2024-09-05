@@ -1,6 +1,6 @@
 registry:latest
 kolla/ubuntu-source-kolla-toolbox:pike
-kolla/ubuntu-source-chrony
+#kolla/ubuntu-source-chrony
 kolla/ubuntu-source-cron
 kolla/ubuntu-source-etcd
 kolla/ubuntu-source-fluentd
