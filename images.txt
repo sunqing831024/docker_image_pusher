@@ -1,9 +1,9 @@
-registry:latest
-kolla/ubuntu-source-kolla-toolbox:pike
+#registry:latest
+#kolla/ubuntu-source-kolla-toolbox:pike
 #kolla/ubuntu-source-chrony
-kolla/ubuntu-source-cron
-kolla/ubuntu-source-etcd
-kolla/ubuntu-source-fluentd
+#kolla/ubuntu-source-cron
+#kolla/ubuntu-source-etcd
+#kolla/ubuntu-source-fluentd
 kolla/ubuntu-source-glance-api
 kolla/ubuntu-source-heat-api
 kolla/ubuntu-source-heat-api-cfn
