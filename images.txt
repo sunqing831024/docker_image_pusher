@@ -1,1 +1,1 @@
-canal/canal-server:laster
+openjdk:8-jre-alpine
