@@ -1,1 +1,4 @@
 openjdk:8-jre-alpine
+canal/canal-adapter:v1.1.7
+canal/canal-admin:v1.1.7
+canal/canal-deployer:v1.1.7
