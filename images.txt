@@ -1,4 +1,4 @@
 #canal/canal-admin:v1.1.7
 #canal/canal-server:v1.1.7
 #canal/canal-adapter:v1.1.7
-openjdk:11-jre
+slpcat/canal-adapter:v1.1.7
