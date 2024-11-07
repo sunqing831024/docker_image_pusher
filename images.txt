@@ -2,4 +2,4 @@
 #canal/canal-server:v1.1.7
 #canal/canal-adapter:v1.1.7
 #slpcat/canal-adapter:v1.1.7
-jdk8u
+jdk-source-code
