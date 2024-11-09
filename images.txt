@@ -3,4 +3,4 @@
 #canal/canal-adapter:v1.1.7
 #slpcat/canal-adapter:v1.1.7
 #ubuntu:22.04
-kafka-manager:v3.0.4
+sheepkiller/kafka-manager:laste
